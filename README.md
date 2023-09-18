@@ -1,9 +1,9 @@
-<h1>Klaviyo and Marketing Automation Expert</h1>
-I help e-commerce businesses like you generate  5-6 figures monthly leveraging the power of email marketing and automation
+<h1>Email Marketing and Automation Expert</h1>
+I help e-commerce businesses like you generate 5-6 figures monthly revenue leveraging the power of email marketing and automation
 Hello, welcome to my portfolio page.
 <h2>About Me</h2>
-My name is Timileyin Olusesan (Timmy/Tishey Olus) I am a results-oriented Klaviyo and Salesforce Pardot Marketing automation expert with 3 years of experience in lead management processes. I have a great passion for leveraging marketing automation to drive business growth. 
-With a strong background in data-driven marketing strategies, I excel at implementing Klaviyo and Automation solutions to optimize lead generation, nurture campaigns, customer engagement & retention, and revenue growth.
+My name is Timmy, a results-oriented email marketing and marketing automation specialist with 3 years of experience in sales and marketing with a strong focus on e-commerce businesses. 
+I possess a strong background in data-driven marketing strategies, I excel at implementing Klaviyo email and Automation solutions in  lead generation, nurture campaigns, customer engagement & retention, and revenue growth.
 
 <h3>Certification </h3>
 
